@@ -1,3 +1,10 @@
+# BEAGLE
+
+This was my first team project during the Codaisseur code academy. This project was in week 4 (out of 10). At this point we only had 3 weeks of 'experience'. The assignment was to make a game where you have to guess the dog's breed based on a picture or pick the correct picture when given a dog's breed.
+
+It is a front end only app that uses a free dog API. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
